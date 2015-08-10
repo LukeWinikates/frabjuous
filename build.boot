@@ -1,6 +1,6 @@
 (set-env!
   :source-paths   #{"src"}
-  :resource-paths #{"html"}
+  :resource-paths #{"app"}
   :dependencies '[
     [adzerk/boot-cljs          "0.0-3308-0"      :scope "test"]
     [adzerk/boot-cljs-repl     "0.1.10-SNAPSHOT" :scope "test"]
